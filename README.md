@@ -12,9 +12,3 @@ A basic keylogger implemented in Python using the pynput library.
 - Python 3.x
 - pynput library (`pip install pynput`)
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-git clone https://github.com/yourusername/simple-keylogger.git
-cd simple-keylogger
